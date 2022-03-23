@@ -1,4 +1,10 @@
 body {
-    background-color: aqua;
-    border: 10px solid purple;
-}
+
+        max-width: 1200px;
+        background-color:green;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        margin: 100px auto;
+        text-align: center;
+      }
