@@ -1,7 +1,13 @@
 body {
-  background-color: aquamarine;
+  background-color: green;
 }
+<<<<<<< HEAD
+h1{
+  text-size-adjust: 10px;
+}
+=======
 
 h1{
     color:blueviolet
 }
+>>>>>>> f5a2a2d21f6e7c0f95c5c0a575f1c2f67a926d3b
